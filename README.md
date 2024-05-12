@@ -1,4 +1,5 @@
 # FriendsUI
+![image](https://github.com/DenizHeinzelmann/FriendList/assets/130756286/c8e7bb08-d7ab-4cbb-8c0f-6fd1dea63250)
 
 This project was generated with KindsonTheGenius by [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
 
